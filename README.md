@@ -1,2 +1,1 @@
-# backlog
-Front-end 개발 백로그
+# Front-end 개발 백로그
